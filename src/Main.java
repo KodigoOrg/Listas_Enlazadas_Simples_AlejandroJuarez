@@ -4,7 +4,7 @@
 public class Main {
 
     /**
-     * Método principal que demuestra operaciones básicas en una lista enlazada simple.
+     * Metodo principal que demuestra operaciones básicas en una lista enlazada simple.
      *
      * @param args Argumentos de la línea de comandos.
      */
