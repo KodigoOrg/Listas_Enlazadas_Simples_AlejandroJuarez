@@ -28,3 +28,6 @@ Clase que representa un nodo de la lista enlazada. Cada nodo contiene un dato y 
 
 ### `ListaEnlazadaSimple`
 Clase que implementa la lista enlazada simple y sus operaciones básicas.
+
+## Compilación y Ejecución
+Se realizo en JDK 21.
