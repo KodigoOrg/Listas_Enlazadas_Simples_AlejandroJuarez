@@ -1,40 +1,30 @@
-# Listas_Enlazadas_Simples_AlejandroJuarez
+# Lista Enlazada Simple en Java
 
-Se muestra una implementación de una lista enlazada simple en Java utilizando programacion orientada a objetos.
+Este proyecto demuestra la implementación y uso de una lista enlazada simple en Java. Una lista enlazada es una estructura de datos lineal donde cada elemento es un nodo que contiene un dato y una referencia (o enlace) al siguiente nodo en la secuencia.
 
-# Clases
-Este proyecto abarca tres clases principales:
+## Tabla de Contenidos
+- [Características](#características)
+- [Clases](#clases)
+- [Uso](#uso)
+- [Ejemplo](#ejemplo)
+- [Contribución](#contribución)
+- [Licencia](#licencia)
 
-Nodo: Representa cada elemento de la lista
-ListaEnlazada: Maneja las operaciones de la lista
-Main: Interfaz para interactuar con la lista
+## Características
 
-# Estructura del Proyecto
-src/
-- Nodo.java
-- ListaEnlazadaSimple.java
-- Main.java
+- Inserción de elementos al inicio y al final de la lista.
+- Eliminación de elementos al inicio y cualquier posición de la lista.
+- Búsqueda de elementos en la lista.
+- Obtención del tamaño de la lista.
+- Información sobre el uso de memoria durante la ejecución.
 
-# Métodos Implementados
+## Clases
 
-Método	Descripción
+### `Main`
+Clase principal que demuestra las operaciones básicas de una lista enlazada simple.
 
-insertarAlInicio(int dato)	Inserta un nodo al inicio
-eliminarAlInicio()	Elimina el primer nodo
-insertarAlFinal(int dato)	Inserta un nodo al final
-eliminarPorValor(int dato)	Elimina nodo por valor
-buscar(int obj)	Busca un valor en la lista
-imprimir()	Muestra todos los elementos
-estaVacia()	Verifica si está vacía
-informacionMemoria()	obtiene informacion del uso de memoria
-tamaño()	Verifica cuantos nodos tenemos
-Compilación y Ejecución
+### `Nodo`
+Clase que representa un nodo de la lista enlazada. Cada nodo contiene un dato y una referencia al siguiente nodo.
 
-# Ejecución
-JDK 21
-
-# Limitaciones
-No permite acceso aleatorio
-Búsqueda secuencial únicamente
-
-Autor: Alejandro Ernesto Juárez Argumedo
+### `ListaEnlazadaSimple`
+Clase que implementa la lista enlazada simple y sus operaciones básicas.
