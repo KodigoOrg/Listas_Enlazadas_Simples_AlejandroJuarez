@@ -1,4 +1,4 @@
-# Lista Enlazada Simple en Java
+# Lista Enlazada Simple - Alejandro Juárez
 
 Este proyecto demuestra la implementación y uso de una lista enlazada simple en Java. Una lista enlazada es una estructura de datos lineal donde cada elemento es un nodo que contiene un dato y una referencia (o enlace) al siguiente nodo en la secuencia.
 
