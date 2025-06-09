@@ -31,3 +31,7 @@ Clase que implementa la lista enlazada simple y sus operaciones básicas.
 
 ## Compilación y Ejecución
 Se realizo en JDK 21.
+
+***
+Proyecto Lista Enlazada Simple
+Autor: Alejandro Ernesto Juárez Argumedo
