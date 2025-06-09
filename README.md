@@ -5,6 +5,7 @@ Este proyecto demuestra la implementación y uso de una lista enlazada simple en
 ## Tabla de Contenidos
 - [Características](#características)
 - [Clases](#clases)
+- [Observación](#observación)
 - [Compilación y Ejecución](#compilaciónyejecución)
 
 ## Características
