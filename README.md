@@ -5,10 +5,7 @@ Este proyecto demuestra la implementación y uso de una lista enlazada simple en
 ## Tabla de Contenidos
 - [Características](#características)
 - [Clases](#clases)
-- [Uso](#uso)
-- [Ejemplo](#ejemplo)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
+- [Compilación y Ejecución](#compilaciónyejecución)
 
 ## Características
 
@@ -28,6 +25,18 @@ Clase que representa un nodo de la lista enlazada. Cada nodo contiene un dato y 
 
 ### `ListaEnlazadaSimple`
 Clase que implementa la lista enlazada simple y sus operaciones básicas.
+
+## Observación
+
+### Ventajas
+- Inserción y eliminación eficientes.
+- Tamaño dinámico.
+- Uso eficiente de memoria.
+
+### Desventajas
+- Acceso secuencial.
+- Mayor uso de memoria por elemento.
+- Complejidad en operaciones avanzadas.
 
 ## Compilación y Ejecución
 Se realizo en JDK 21.
