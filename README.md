@@ -17,7 +17,7 @@ src/
 
 # Métodos Implementados
 
-- Método	Descripción
+Método	Descripción
 
 insertarAlInicio(int dato)	Inserta un nodo al inicio
 eliminarAlInicio()	Elimina el primer nodo
@@ -30,7 +30,8 @@ informacionMemoria()	obtiene informacion del uso de memoria
 tamaño()	Verifica cuantos nodos tenemos
 Compilación y Ejecución
 
-# Requisitos
+# Ejecución
+JDK 21
 
 # Limitaciones
 No permite acceso aleatorio
